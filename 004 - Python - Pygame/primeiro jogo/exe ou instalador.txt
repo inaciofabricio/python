@@ -1,0 +1,7 @@
+Abra o prompt de comando (windows+R)
+
+Informe o caminho da pasta (EX: "cd C:\Github\python\Python - Pygame\primeiro jogo")
+
+execute o arquivo setup.py para gerar o execultavel(setup.py build) (EX: "C:\Github\python\Python - Pygame\primeiro jogo\setup.py build")
+
+execute o arquivo setup.py para gerar o instalador(setup.py bdist_msi) (EX: "C:\Github\python\Python - Pygame\primeiro jogo\setup.py bdist_msi")

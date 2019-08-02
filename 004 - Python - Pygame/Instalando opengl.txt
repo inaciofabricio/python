@@ -1,0 +1,3 @@
+Abra o CMD (Windows+R).
+
+execute o comando na pasta um esta o arquivo easy_install.py (EX: C:\Python27\scripts\easy_install pyopengl)

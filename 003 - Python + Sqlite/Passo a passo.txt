@@ -1,0 +1,21 @@
+Donwload o Sqlite
+
+1. Baixar os aquivos deste topico "Precompiled Binaries for Windows", versão estavel do SO utilizado.
+
+Arquivos:
+	sqlite-shell-win32-x86-3090200.zip
+	sqlite-dll-win32-x86-3090200.zip
+
+2. Tire o arquivo do zip e coloque tudo na mesma pasta, de preferencia no C:
+
+Exemplo: C:\sqlite
+
+
+3. Vicule o Sqlite no path.
+
+	3.1 Ctrl+PauseBrake
+	3.2 Configuraões avançadas do sistema
+	3.3 Variaves do ambiente
+	3.4 Variaves do sistema(localiza a variavel path e edita(valor da varivel) colocando no final o caminho(C:\sqlite\\sqlite3.exe) do sql3.exe)
+	3.5 ok
+	
